@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI and attempting to run an application that uses a third-party library that is not properly configured or compatible with Expo's managed workflow. The error message itself might not be very descriptive, often just showing a generic error or a build failure.
